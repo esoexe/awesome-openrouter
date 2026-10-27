@@ -1,0 +1,9 @@
+name: "Astro AI"
+description: "Free, open-source desktop AI app (Windows, Linux, macOS) where many models answer together as one team. Includes chat, a code workspace, an agent and voice. Bring your own OpenRouter key to use its free and paid models."
+url: "https://esoexe.github.io/astro-ai/"
+docs: "https://esoexe.github.io/astro-ai/docs.html#keys"
+tags:
+  - chat
+  - productivity
+open_source: "https://github.com/esoexe/astro-ai"
+date_added: "2026-10-27"
